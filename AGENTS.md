@@ -1,12 +1,12 @@
 # Food & Drink Rebalance — Project Rules
 
-The global engineering baseline is `666drjekyll666-cloud/DevRules`. Read its `ENGINEERING_RULES.md`, `CI_POLICY.md`, `GIT_WORKFLOW.md`, and `PROJECT_BOOTSTRAP.md` before substantive work. This file contains project-specific additions.
+The global engineering baseline is `NikichMods/DevRules`. Read its `ENGINEERING_RULES.md`, `CI_POLICY.md`, `GIT_WORKFLOW.md`, and `PROJECT_BOOTSTRAP.md` before substantive work. This file contains project-specific additions.
 
 ## Identity and scope
 
 - Project: **Food & Drink Rebalance**.
 - Game: **Graveyard Keeper 1.407**.
-- Repository: `666drjekyll666-cloud/FoodAndDrinkRebalance`.
+- Repository: `NikichMods/FoodAndDrinkRebalance`.
 - Project/assembly/DLL: `FoodAndDrinkRebalance` / `FoodAndDrinkRebalance.dll`.
 - Canonical runtime source: `src/GKFoodRebalancePlugin.cs`.
 - BepInEx GUID: `nikich.graveyardkeeper.gkfoodrebalance`; preserve this GUID across branding/version changes.

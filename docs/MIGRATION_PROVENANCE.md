@@ -2,7 +2,7 @@
 
 This public repository intentionally starts with a clean Git history.
 
-- Legacy private repository: `666drjekyll666-cloud/GKFoodRebalance-legacy-private`
+- Legacy private repository: `NikichMods/GKFoodRebalance-legacy-private`
 - Accepted gameplay baseline: **1.1.6**
 - Exact accepted runtime source: `version/1.1.6` commit `0c266d1c773c355f225f4c3ecf4f7bf6097c3b00`
 - Legacy stable promotion: `79f70f6e2b3db98ad631d6a979acac2a0ee8e51b`
