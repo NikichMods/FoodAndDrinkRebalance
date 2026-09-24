@@ -37,7 +37,7 @@ Public stable **1.2.1** preserves the accepted 1.1.6/1.2.0 gameplay balance. Its
 
 ## CI
 
-Hosted CI is a candidate/handoff gate, not a per-commit service. `ubuntu-latest` is the proven canonical build environment for this managed-code project. Prefer manual `workflow_dispatch`; do not trigger builds for documentation/bookkeeping-only changes. Temporary candidate artifacts use short retention.
+Code-bearing pull requests to `main` build automatically with path filters and `cancel-in-progress`; `workflow_dispatch` remains available for ad-hoc or handoff rebuilds. `ubuntu-latest` is the proven canonical build environment for this managed-code project. Documentation/bookkeeping-only changes do not trigger the build. Temporary candidate artifacts use short retention.
 
 ## Sources of truth
 
